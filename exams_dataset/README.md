@@ -1,2 +1,2 @@
 # notebooke_practice
-using one file ad a guide to make this one
+using one file as a guide to make this one
